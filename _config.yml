@@ -1,22 +1,22 @@
-title: devlopr
-subtitle: A Portfolio Jekyll Theme Built for Developers
+title: SKTNote
+subtitle: I'm KTNote. But, I'm SKTNote, too.
 description: >- # this means to ignore newlines until "baseurl:"
-  devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
+  제 깃허브 블로그에 오신 것을 환영합니다!
 
 url: "https://SKTNote.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # Navigation
 urls:
-    - text: Home
+    - text: 메인
       url: /
     - text: About
       url: /about
-    - text: Blog
+    - text: 블로그
       url: /blog
-    - text: Gallery
+    - text: 사진
       url: /gallery
-    - text: Shop
+    - text: 상점
       url : /shop
     - text: Contact
       url : /contact
