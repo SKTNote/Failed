@@ -1,6 +1,6 @@
 ### Let's make Github Blog!
 
-devlopr uses Markdown Files to generate data like Blog Posts, Gallery, Shop Products etc. No external database is required.
+반갑습니다! KTNote의 블로그에 오신 것을 환영합니다:D
 
 
 ### Launch your Static Site using Devlopr in minutes :rocket:
