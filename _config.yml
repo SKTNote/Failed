@@ -40,12 +40,12 @@ author_work_experiences:
               designation: Software Engineer
               description: Worked on various Google Products
               visibility: true
-            - company_name: Microsoft
+            - company_name: None
               company_logo: microsoft.png
               company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
-              visibility: true
+              designation: None
+              description: None
+              visibility: false
 
 # Education
 author_education_details:
