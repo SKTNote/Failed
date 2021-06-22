@@ -10,11 +10,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 urls:
     - text: Home
       url: /
-    - text: About
+    - text: 정보
       url: /about
-    - text: blog
+    - text: 블로그
       url: /blog
-    - text: gallery
+    - text: 사진
       url: /gallery
     - text: shop
       url : /shop
